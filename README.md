@@ -1,52 +1,62 @@
 
-<h1 align="center"><b>Hi , I'm Marcos Zepeda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Marcos Zepeda 👋</h1>
+<p align="center">Computer Engineer • Backend Developer • ICPC Contestant</p>
 
 <br><br>
 
-💻 I’m a final-semester Computer Engineering student  
-📚 Studying at Universidad de Guadalajara  
-🧠 Passionate about software development and continuous learning  
-🔍 Interested in problem solving, system design, and real-world applications  
-🏁 ICPC programming contest participant  
-🤔 Currently open to Software Engineer Internships or full-time opportunities
+💻 Computer Engineer with a focus on backend development  
+⚙️ Experience building full-stack web applications  
+🧠 Strong problem-solving skills, with background in ICPC competitions using C++  
+🚀 Worked with Python, Laravel, and relational databases to build end-to-end solutions  
+
+🤝 Open to Software Engineer opportunities
+
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p>
-  <p><b>Languages</b></p>
-  
-      
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,python,java,php&perline=14" />
-    </a>
-  </p>
 
-  <br>   
-      
-  <p><b>Front-End Development:</b></p>
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
-    </a>
-  </p>
-  <br>
-
-
-  <br>
-
-  <p><b>Softwares and Tools</b></p>
-
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,git,github,postgresql,mysql,vscode,flask,django,qt&perline=14" />
-    </a>
-  </p>
-  <br>
+<p><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,php" />
 </p>
+
+<br>
+
+<p><b>Backend & Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,flask,django,qt" />
+</p>
+
+<br>
+
+<p><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" />
+</p>
+
+<br>
+
+<p><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+<br>
+
+<p><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+</p>
+
+</p>
+
+### 📚 Currently Learning
+- Amazon • Amazon Junior Software Developer (Java, OOP, Spring Boot, MVC)
+- Meta • Programming with JavaScript (Javascript, OOP, Front-End Web Development)
+- Meta • React Basics(React.js, Front-End Web Development)
 
 <br><br>
 </div>
